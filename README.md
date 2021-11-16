@@ -20,4 +20,4 @@ social media img assets
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<a href="https://raw.githubusercontent.com/aladaBhai/assets/main/Photography/software%20assets/icon/profiles/new_profile.png"> <img width="1604" src="Photography/software%20assets/icon/profiles/new_profile.png"> NP V0001</a> | <a href="###"> <img width="1604" src="###"> NP V0002</a> |<a href="###"> <img width="1604" src="###"> NP V0003</a>||
+|<a href="https://raw.githubusercontent.com/aladaBhai/assets/main/Photography/software%20assets/icon/profiles/new_profile.png"> <img width="1604" src="Photography/software%20assets/icon/profiles/new_profile.png"> NP V0001</a> | <a href="###"> <img width="1604" src="Photography/software%20assets/icon/profiles/icons8-test-account-96.png"> NP V0002</a> |<a href="###"> <img width="1604" src="Photography/software%20assets/icon/profiles/icons8-test-account-80.png"> NP V0003</a>||
